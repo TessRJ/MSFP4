@@ -10,7 +10,7 @@ El caso de estudio analiza un **modelo fenomenológico simplificado del sistema 
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado de Sistemas Fisiológicos  
 **Programa:** Ingeniería Biomédica  
-**Estudiante:** Rincón · Número de control: 22210795 · l22210795@tijuana.tecnm.mx  
+**Estudiante:** Rincón Jiménez Tessa · Número de control: 22210795 · l22210795@tijuana.tecnm.mx  
 
 **Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020  
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
