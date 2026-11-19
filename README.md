@@ -1,4 +1,4 @@
-# Práctica 5.6 — Modelado y control del sistema endócrino
+# Práctica 5 — Modelado y control del sistema endócrino
 
 Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos**, correspondiente al programa de **Ingeniería Biomédica** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. Esta práctica integra modelado fenomenológico fisiológico, analogías eléctricas de segundo orden, derivaciones analíticas mediante leyes de Kirchhoff y transformada de Laplace, análisis de estabilidad y error en estado estacionario, sintonización de un controlador PID, diseño de controlador analógico mediante amplificadores operacionales, simulación computacional comparativa en MATLAB/Simulink, Simscape Electrical y Python, así como validación experimental en el Laboratorio de Electrónica.
 
